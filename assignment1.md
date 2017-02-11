@@ -7,7 +7,7 @@ permalink: assignment1.html
 Note: Align by enrollment number.
 
 Enrollment No.: | Name | Repo link
------------- | ------------- | -------------
+150303105093 | pavan motwani | [repo]https://github.com/ParulProgrammingHub/assignment-1-Pavan098
 123 | This is a test to showcase how to add | [Repo](https://github.com/ParulProgrammingHub/assignment-1-NoelMacwan)
 150303105003 | Aghariya Abidhussain A | [Repo](https://github.com/ParulProgrammingHub/assignment-1-AghariyaAbidhussain.git)
 150303105010 | CHIRAGBHAI BAVISHI | [Repo](https://github.com/ParulProgrammingHub/assignment-1-chiragbavishi.git)
