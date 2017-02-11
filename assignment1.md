@@ -9,6 +9,7 @@ Note: Align by enrollment number.
 Enrollment No.: | Name | Repo link
 ------------ | ------------- | -------------
 150303105003 | Aghariya Abidhussain A | [Repo](https://github.com/ParulProgrammingHub/assignment-1-AghariyaAbidhussain.git)
+150303105004 | Chintan Ahir | [Repo](https://github.com/ParulProgrammingHub/assignment-1-AHIRCHINTAN.git)
 150303105012 | Bhagyashri Deshmukh | [Repo](https://github.com/ParulProgrammingHub/assignment-1-bhagyashrideshmukh12)
 150303105017 | Shivang Chaniyara | [Repo](https://github.com/ParulProgrammingHub/assignment-1-SHIVANGCHANIYARA.git)
 150303105024 | Dishita Chokshi | [Repo](https://github.com/ParulProgrammingHub/assignment-1-dishu-1709)
@@ -40,3 +41,5 @@ Enrollment No.: | Name | Repo link
 150303105134 | PATEL MILIN VIJAYKUMAR | [Repo](https://github.com/ParulProgrammingHub/assignment-1-milinpatel13298)
 150303105178 | Sumit Saini |[Repo](https://github.com/ParulProgrammingHub/assignment-1-Sumit7991.git)
 150303105061 | Gifty Varghese | [Repo](https://github.com/ParulProgrammingHub/assignment-1-Gifty97)
+150303105028 | CHOUDHARY BHARAT |[Repo](https://github.com/ParulProgrammingHub/assignment-1-bharatchoudhary28)
+150303105034 | Helly Darji |[Repo](https://github.com/ParulProgrammingHub/assignment-1-Helly02.git)
